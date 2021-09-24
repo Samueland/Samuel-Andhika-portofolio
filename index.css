@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+
+#zenbu{
+    border: 8px solid white;
+    background-image: linear-gradient(rgb(0, 107, 126), rgb(0, 255, 191), rgb(0, 107, 126));
+}
+
+:root{
+    --c1: rgb(121, 121, 121);
+    --c2: rgb(0, 107, 126), rgb(0, 255, 191), rgb(0, 107, 126);
+    --c3: rgb(0, 107, 126), rgb(0, 255, 191);
+    --c4: white;
+    --c5: rgb(0, 255, 191), rgb(0, 107, 126);
+}
+body{
+    background-color: var(--c1);
+    color: rgb(255, 255, 255);
+}
+
+.text .foto .ukuran-gambar .line-heigth{
+    line-height: 10px;
+}
+
+.text .foto .ukuran-gambar{
+    width: 200px;
+    height: 200px;
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: 650px;
+    border-radius: 50%;
+    margin: auto;
+    border: 8px solid var(--c4);
+}
+
+
+.ukuran-text{
+    font-size: 30px;
+}
+
+
+.text{
+    text-align: center;
+    font-size: 17px;
+    color: var(--c4);
+    font-family: 'Gloria Hallelujah', cursive;
+    line-height: 30px;
+}
+
+.akun {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+    border-radius: 50%;
+    border: 8px solid var(--c4);
+    margin: auto;
+    width: 800px;
+    height: 300px;
+    background-image: linear-gradient(var(--c3));
+}
+
+.akun #warna-kolom{
+    text-align: center;
+}
+
+.borders{
+    background-color: white;
+}
+
+.gelembung-pen{
+    border-radius: 50%;
+    border: 8px solid var(--c4);
+    margin: auto;
+    width: 900px;
+    height: 400px;
+    background-image: linear-gradient(var(--c3));
+}
+
+.gelembung-pen #table{
+    color: var(--c4);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 25px;
+    margin-left: 200px;
+    
+}
+
+.gelembung-pen #judul-table{
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.gelembung-pen #table #kolom1{
+    
+}
+
+.gelembung-pen #table #kolom{
+    
+}
+
+.gelembung-pen #table #table2{
+    background-image: linear-gradient(var(--c5));
+}
+
+.gelembung-pen #table #table3{
+    background-image: linear-gradient(var(--c5));
+}
+
+.organisasi{
+    border-radius: 50%;
+    border: 8px solid var(--c4);
+    margin: auto;
+    width: 1000px;
+    height: 400px;
+    background-image: linear-gradient(var(--c3));
+}
+
+.organisasi .organisasi2{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    font-size: 23px;
+}
+
+.organisasi .organisasi1{
+    font-size: 25px;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+}
+
+.prestasi{
+    color: var(--c4);
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    border-radius: 50%;
+    border: 8px solid var(--c4);
+    margin: auto;
+    width: 1000px;
+    height: 400px;
+    background-image: linear-gradient(var(--c3));
+}
+
+.prestasi .prestasi1{
+    font-size: 25px;
+}
+
+.skill{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50%;
+    border: 8px solid var(--c4);
+    margin: auto;
+    width: 1000px;
+    height: 200px;
+    background-image: linear-gradient(var(--c3));
+}
+
+.inspirasi{
+    color: var(--c4);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 22px;
+    text-align: center;
+}
+
+.inspirasi .table-ins{
+    margin-left: 2px;
+}
+
+.inspirasi #ins1{
+    background-image: linear-gradient(var(--c3));
+}
+
+.inspirasi #ins2{
+    background-image: linear-gradient(var(--c3));
+}
+
+.inspirasi #ins3{
+    background-image: linear-gradient(var(--c3));
+}
+
+.inspirasi #warna-ins{
+    background-image: linear-gradient(var(--c3));
+}
+
+.inspirasi .link{
+   
+}
+    
